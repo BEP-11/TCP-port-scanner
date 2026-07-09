@@ -30,3 +30,11 @@
 git clone https://github.com/BEP-11/rust-scanner.git
 cd rust-scanner
 
+---
+
+🔮 Планы развития
+ Поддержка UDP/ICMP пробросов
+ Экспорт результатов в JSON/XML (serde)
+ Настраиваемые таймауты на уровне сокетов (tokio::time::timeout)
+ Интеграция с pnet для кастомных payload'ов
+
