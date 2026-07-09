@@ -30,7 +30,3 @@
 git clone https://github.com/BEP-11/rust-scanner.git
 cd rust-scanner
 
-### 2. соберите полную версию
-```bash
-cargo build --release
-
