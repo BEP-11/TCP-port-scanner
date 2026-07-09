@@ -34,6 +34,7 @@
 ```bash
 git clone https://github.com/BEP-11/rust-scanner.git
 cd rust-scanner
+```bash
 
 ### ⭐ Нравится проект? Оставьте звезду и создавайте Issue/PR с предложениями!
 🦀 Safe memory. Fast execution. Zero compromises.
