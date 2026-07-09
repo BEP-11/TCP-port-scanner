@@ -27,14 +27,18 @@
 - Экспорт результатов в JSON/XML (serde)
 - Настраиваемые таймауты на уровне сокетов (tokio::time::timeout)
 - Интеграция с pnet для кастомных payload'ов
-
-
-
-
+- 
 ## 🛠 Установка и запуск
 
 ### 1. Клонируйте репозиторий
 ```bash
 git clone https://github.com/BEP-11/rust-scanner.git
 cd rust-scanner
+
+### ⭐ Нравится проект? Оставьте звезду и создавайте Issue/PR с предложениями!
+🦀 Safe memory. Fast execution. Zero compromises.
+
+
+
+
 
