@@ -30,13 +30,21 @@
 - 
 ## 🛠 Установка и запуск
 
-### 1. Клонируйте репозиторий
+### 1. Клонируйте репозиторий, соберите релизнутую версию
 ```bash
+Клонирование
 git clone https://github.com/BEP-11/rust-scanner.git
 cd rust-scanner
-```bash
 
-### ⭐ Нравится проект? Оставьте звезду и создавайте Issue/PR с предложениями!
+Сборка
+cargo build --release
+
+Сканирование
+./target/release/rust_scanner -H 192.168.1.1 --start-port 1 --end-port 1024
+
+
+
+⭐ Нравится проект? Оставьте звезду и создавайте Issue/PR с предложениями!
 🦀 Safe memory. Fast execution. Zero compromises.
 
 
