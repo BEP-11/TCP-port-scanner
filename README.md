@@ -1,7 +1,7 @@
 
 # 🔍 Rust Async TCP Scanner
 
-[![Rust](https://img.shields.io/badge/Rust-2021-orange.svg)](https://www.rust-lang.org/)
+[![Rust](https://img.shields.io/badge/Rust-2026-orange.svg)](https://www.rust-lang.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Tokio Runtime](https://img.shields.io/badge/Runtime-Tokio%20v1-green.svg)](https://tokio.rs/)
 
